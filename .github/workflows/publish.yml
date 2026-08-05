@@ -9,7 +9,7 @@
 # 1. Log in to npmjs.com and open your package's settings.
 # 2. Under "Publish access" > "Trusted Publishers", click "Add a publisher".
 # 3. Select GitHub Actions and fill in:
-#    Repository owner: trendsmcp
+#    Repository owner: trendsmcp-ai
 #    Repository name: n8n-nodes-trendsmcp
 #    Workflow name: publish.yml
 # 4. Leave the NPM_TOKEN secret unset. GitHub's OIDC token is used instead.
